@@ -14,3 +14,5 @@ Belajar Github dan Git CLI
 12. git switch -c nama_branch === membuat branch dan pindah
 13. git log --graph --oneline --all === log
 14. --- === merge branch fitur to master
+15. git --- === delete branch
+
