@@ -13,3 +13,4 @@ Belajar Github dan Git CLI
 11. git checkout <nama_branch> || git checkout <nama-branch> === beralih ke branch
 12. git switch -c nama_branch === membuat branch dan pindah
 13. git log --graph --oneline --all === log
+14. --- === merge branch fitur to master
