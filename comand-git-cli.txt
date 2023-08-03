@@ -6,9 +6,10 @@ Belajar Github dan Git CLI
 4. git commit -m "Pesan komit" === melakukan komit
 5. git status === melihat status
 6. git log === commit hstory
-7. git push origin nama_branch
-8. git pull origin nama_branch
-9. git branch <nama_branch> === New Branch
-10. git checkout <nama_branch> || git checkout <nama-branch> === beralih ke branch
-11. git switch -c nama_branch === membuat branch dan pindah
-12. git log --graph --oneline --all === log
+7. git remote add origin <link-repo>
+8. git push origin nama_branch
+9. git pull origin nama_branch
+10. git branch <nama_branch> === New Branch
+11. git checkout <nama_branch> || git checkout <nama-branch> === beralih ke branch
+12. git switch -c nama_branch === membuat branch dan pindah
+13. git log --graph --oneline --all === log
