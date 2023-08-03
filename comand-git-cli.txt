@@ -1,0 +1,14 @@
+Belajar Github dan Git CLI
+
+1. git init === Inisialisasi Repositori
+2. git clone <url_repositori> === Menbuat salinan Ke lokal
+3. git add <nama_file1> <nama_file2> === menambahkan file ke staging area
+4. git commit -m "Pesan komit" === melakukan komit
+5. git status === melihat status
+6. git log === commit hstory
+7. git push origin nama_branch
+8. git pull origin nama_branch
+9. git branch <nama_branch> === New Branch
+10. git checkout <nama_branch> || git checkout <nama-branch> === beralih ke branch
+11. git switch -c nama_branch === membuat branch dan pindah
+12. git log --graph --oneline --all === log
