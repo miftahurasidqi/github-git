@@ -1,1 +1,4 @@
-pembagin file
+comand linuk
+
+ls === list file or folder on this direktori
+cd === change direktori
