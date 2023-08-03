@@ -1,1 +1,2 @@
-pembagin file
+pwd === print width direktori
+cat <filename.ext> === print file
