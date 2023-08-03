@@ -2,3 +2,5 @@ comand linuk
 
 ls === list file or folder on this direktori
 cd === change direktori
+pwd === print width direktori
+cat <filename.ext> === print file
